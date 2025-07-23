@@ -147,9 +147,9 @@ export default function LoginPage() {
 
           {isLogin && (
             <div className="mt-4 p-3 bg-gray-50 rounded-lg text-sm text-gray-600">
-              <p className="font-medium mb-1">Demo Accounts:</p>
-              <p>Admin: admin@building.com / admin123</p>
-              <p>Staff: staff@building.com / staff123</p>
+              <p className="font-medium mb-1"></p>
+              
+              
             </div>
           )}
         </div>
