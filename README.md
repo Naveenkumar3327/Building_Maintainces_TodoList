@@ -6,11 +6,6 @@ A modern full-stack **Building Maintenance Tracker** app designed to help stream
 
 ---
 
-## 📸 Screenshots
-
-> (Include screenshots of dashboard, add task form, and update UI here if available)
-
----
 
 ## 🚀 Features
 
@@ -32,32 +27,6 @@ A modern full-stack **Building Maintenance Tracker** app designed to help stream
 | **Express.js**| Backend APIs                |
 | **Node.js**   | Backend runtime             |
 | **Tailwind CSS** | Styling                  |
-
----
-
-## 📁 Folder Structure
-
-📦project-root
-┣ 📂public
-┣ 📂src
-┃ ┣ 📂app
-┃ ┃ ┣ 📂api
-┃ ┃ ┃ ┗ 📂tasks
-┃ ┃ ┃ ┃ ┗ 📄route.js
-┃ ┃ ┣ 📂components
-┃ ┃ ┃ ┣ 📄TaskList.js
-┃ ┃ ┃ ┣ 📄TaskForm.js
-┃ ┃ ┗ 📄page.js
-┃ ┣ 📂lib
-┃ ┃ ┗ 📄mongodb.js
-┃ ┣ 📂models
-┃ ┃ ┗ 📄task.js
-┃ ┗ 📄globals.css
-┣ 📄.gitignore
-┣ 📄package.json
-┣ 📄README.md
-
-text
 
 ---
 
